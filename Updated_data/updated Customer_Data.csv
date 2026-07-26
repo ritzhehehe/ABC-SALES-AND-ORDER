@@ -1,0 +1,201 @@
+Customer_ID,Customer_Name,Gender,Age,City,State,Region,Customer_Segment,Join_Date
+C001,Priya Kapoor,Female,27,Jaipur,Rajasthan,North,Consumer,2024-07-25
+C002,Aditya Patel,Male,23,Kolkata,West Bengal,East,Home Office,2023-09-30
+C003,Pooja Arora,Female,69,Delhi,Delhi,North,Home Office,2024-02-19
+C004,Sneha Kapoor,Female,31,Delhi,Delhi,North,Consumer,2024-12-19
+C005,Aman Mehta,Male,55,Mumbai,Mumbai,West,Home Office,2024-08-11
+C006,Ananya Singh,Female,27,Bengaluru,Karnataka,South,Home Office,2024-02-03
+C007,Priya Saini,Female,150,Lucknow,Uttar Pradesh,North,Home Office,2024-10-08
+C008,Ananya Singh,Female,25,Kolkata,West Bengal,East,Corporate,2025-01-16
+C009,Simran Choudhary,Female,37,Mumbai,Maharastra,West,Home Office,2024-08-24
+C010,Rohan Kapoor,Male,51,Jaipur,Rajasthan,North,Consumer,2025-04-20
+C011,Aditya Arora,Male,21,Bengaluru,Karnataka,South,Home Office,2024-08-02
+C012,Simran Sharma,Female,21,Jaipur,Rajasthan,North,Home Office,2024-05-12
+C013,Aman Patel,Male,49,Jaipur,Rajasthan,North,Home Office,2023-10-02
+C014,Karan Saini,Male,61,Kolkata,West Bengal,East,Home Office,2024-08-22
+C015,Priya Khanna,Female,28,Jaipur,Rajasthan,North,Home Office,2024-01-16
+C016,Sneha Yadav,Female,34,Bengaluru,Karnataka,South,Consumer,2023-02-10
+C017,Ananya Joshi,Female,69,Delhi,Delhi,North,Consumer,2023-02-02
+C018,Pooja Malhotra,Female,54,Lucknow,Uttar Pradesh,North,Corporate,2024-02-23
+C019,Karan Verma,Male,62,Mumbai,Maharastra,West,Consumer,2023-01-06
+C020,Pooja Kapoor,Female,25,Delhi,Delhi,North,Consumer,2024-08-06
+C021,Muskan Verma,Female,24,Kolkata,West Bengal,East,Home Office,2024-10-11
+C022,Aditya Saxena,Male,18,Bengaluru,Karnataka,South,Consumer,2023-02-05
+C023,Aditya Arora,Male,44,Bengaluru,Karnataka,South,Home Office,2023-08-15
+C024,Arjun Kumar,Male,49,Jaipur,Rajasthan,North,Consumer,2023-01-02
+C025,Arjun Jain,Male,40,Bengaluru,Karnataka,South,Home Office,2024-04-15
+C026,Sneha Joshi,Female,23,Bengaluru,Karnataka,South,Corporate,2025-05-09
+C027,Nisha Mehta,Female,20,Bengaluru,Karnataka,South,Consumer,2024-07-11
+C028,Ananya Yadav,Female,66,Bengaluru,Karnataka,South,Home Office,2025-02-22
+C029,Neha Joshi,Female,42,Jaipur,Rajasthan,North,Consumer,2023-11-25
+C030,Rohan Saini,Male,60,Lucknow,Uttar Pradesh,North,Consumer,2025-05-01
+C031,Neha Joshi,Female,39,Lucknow,Uttar Pradesh,North,Home Office,2023-02-10
+C032,Pooja Singh,Female,47,Delhi,Delhi,North,Home Office,2023-08-08
+C033,Ritika Arora,Female,49,Bengaluru,Karnataka,South,Consumer,2023-03-31
+C034,Aman Agarwal,Male,25,Jaipur,Rajasthan,North,Corporate,2024-01-14
+C035,Aman Singh,Male,37,Delhi,Delhi,North,Corporate,2024-10-12
+C036,Ananya Gupta,Female,61,Bengaluru,Karnataka,South,Consumer,2024-08-17
+C037,Neha Mehta,Female,70,Jaipur,Rajasthan,North,Corporate,2024-03-20
+C038,Aman Gupta,Male,39,Delhi,Delhi,North,Consumer,2024-01-11
+C039,Ritika Patel,Female,65,Bengaluru,Karnataka,South,Consumer,2024-11-25
+C040,Priya Saxena,Female,50,Kolkata,West Bengal,East,Corporate,2025-05-10
+C041,Arjun Singh,Male,41,Lucknow,Uttar Pradesh,North,Consumer,2023-12-09
+C042,Aditya Sharma,Male,64,Delhi,Delhi,North,Consumer,2025-01-21
+C043,Muskan Patel,Female,30,Delhi,Delhi,North,Consumer,2023-08-07
+C044,Neha Jain,Female,33,Delhi,Delhi,North,Home Office,2025-05-25
+C045,Ananya Singh,Female,47,Mumbai,Maharastra,West,Consumer,2025-01-11
+C046,Ritika Arora,Female,58,Delhi,Delhi,North,Corporate,2024-04-16
+C047,Simran Arora,Female,21,Jaipur,Rajasthan,North,Home Office,2024-03-30
+C048,Mohit Jain,Male,29,Jaipur,Rajasthan,North,Consumer,2023-08-02
+C049,Akash Saini,Male,32,Kolkata,West Bengal,East,Home Office,2023-06-19
+C050,Aarav Malhotra,Male,32,Delhi,Delhi,North,Consumer,2023-01-15
+C051,Neha Kumar,Female,62,Kolkata,West Bengal,East,Home Office,2024-08-17
+C052,Rohan Mishra,Male,29,Jaipur,Rajasthan,North,Corporate,2024-01-10
+C053,Kavya Saini,Female,20,Bengaluru,Karnataka,South,Corporate,2023-07-17
+C054,Aarav Patel,Male,31,Lucknow,Uttar Pradesh,North,Consumer,2025-04-24
+C055,Karan Patel,Male,31,Mumbai,Maharastra,West,Consumer,2024-02-18
+C056,Karan Patel,Male,33,Delhi,Delhi,North,Consumer,2023-06-21
+C057,Nisha Malhotra,Female,18,Mumbai,Maharastra,West,Consumer,2024-04-21
+C058,Nisha Saini,Female,46,Jaipur,Rajasthan,North,Corporate,2024-12-30
+C059,Aditya Khanna,v,30,Kolkata,West Bengal,East,Home Office,2023-01-21
+C060,Ananya Yadav,Female,69,Bengaluru,Karnataka,South,Corporate,2023-09-28
+C061,Vivaan Bansal,Male,35,Lucknow,Uttar Pradesh,North,Home Office,2024-04-04
+C062,Rohan Saxena,Male,59,Mumbai,Maharastra,West,Corporate,2023-04-07
+C063,Arjun Yadav,Male,46,Kolkata,West Bengal,East,Home Office,2024-02-13
+C064,Nisha Sharma,Female,48,Kolkata,West Bengal,East,Home Office,2023-02-03
+C065,Neha Saini,Female,53,Mumbai,Maharastra,West,Consumer,2023-07-27
+C066,Simran Bansal,Female,28,Delhi,Delhi,North,Corporate,2024-07-16
+C067,Mohit Khanna,Male,31,Kolkata,West Bengal,East,Corporate,2023-02-20
+C068,Vivaan Sharma,Male,64,Kolkata,West Bengal,East,Home Office,2024-05-22
+C069,Akash Choudhary,Male,51,Jaipur,Rajasthan,North,Consumer,2025-02-19
+C070,Karan Bansal,Male,44,Delhi,Delhi,North,Corporate,2025-03-13
+C071,Pooja Patel,Female,46,Lucknow,Uttar Pradesh,North,Corporate,2025-03-16
+C072,Kavya Khanna,Female,43,Jaipur,Rajasthan,North,Corporate,2024-11-14
+C073,Priya Saini,Female,57,Jaipur,Rajasthan,North,Home Office,2025-01-13
+C074,Kavya Agarwal,Female,32,Jaipur,Rajasthan,North,Corporate,2023-10-24
+C075,Priya Mehta,Female,36,Delhi,Delhi,North,Home Office,2023-09-28
+C076,Mohit Jain,Male,43,Mumbai,Maharastra,West,Corporate,2024-03-15
+C077,Simran Khanna,Female,20,Mumbai,Maharastra,West,Consumer,2025-03-06
+C078,Rohan Agarwal,Male,24,Mumbai,Maharastra,West,Consumer,2024-05-21
+C079,Neha Khanna,Female,38,Kolkata,West Bengal,East,Home Office,2024-12-31
+C080,Kavya Malhotra,Female,58,Delhi,Delhi,North,Home Office,2023-01-15
+C081,Rahul Saini,Male,61,Kolkata,West Bengal,East,Corporate,2025-02-11
+C082,Karan Agarwal,Male,46,Jaipur,Rajasthan,North,Consumer,2023-10-02
+C083,Vivaan Gupta,Male,23,Bengaluru,Karnataka,South,Consumer,2023-12-29
+C084,Arjun Gupta,Male,38,Kolkata,West Bengal,East,Consumer,2025-05-12
+C085,Akash Mishra,Male,58,Delhi,Delhi,North,Consumer,2023-07-06
+C086,Ritika Gupta,Female,25,Bengaluru,Karnataka,South,Corporate,2024-02-16
+C087,Mohit Yadav,Male,30,Kolkata,West Bengal,East,Home Office,2025-02-15
+C088,Karan Kapoor,Male,29,Mumbai,Maharastra,West,Home Office,2025-06-18
+C089,Muskan Kumar,Female,23,Jaipur,Rajasthan,North,Home Office,2023-11-10
+C090,Aarav Kumar,Male,49,Lucknow,Uttar Pradesh,North,Corporate,2024-03-16
+C091,Aman Mehta,Male,56,Lucknow,Uttar Pradesh,North,Corporate,2025-01-31
+C092,Mohit Saxena,Male,63,Jaipur,Rajasthan,North,Consumer,2023-12-18
+C093,Mohit Patel,Female,58,Kolkata,West Bengal,East,Home Office,2023-08-01
+C094,Kavya Saini,Female,27,Bengaluru,Karnataka,South,Consumer,2023-07-29
+C095,Mohit Joshi,Male,47,Delhi,Delhi,North,Corporate,2024-08-02
+C096,Aditya Arora,Male,24,Jaipur,Rajasthan,North,Consumer,2024-01-15
+C097,Priya Agarwal,Female,33,Mumbai,Maharastra,West,Home Office,2023-02-28
+C098,Ananya Verma,Female,33,Jaipur,Rajasthan,North,Corporate,2023-04-06
+C099,Priya Saxena,Female,64,Kolkata,West Bengal,East,Consumer,2025-04-13
+C100,Muskan Jain,Female,46,Jaipur,Rajasthan,North,Corporate,2024-07-16
+C101,Karan Saxena,Male,59,Mumbai,Maharastra,West,Corporate,2024-04-11
+C102,Simran Saini,Female,27,Delhi,Delhi,North,Consumer,2024-12-02
+C103,Neha Kapoor,Female,31,Lucknow,Uttar Pradesh,North,Home Office,2024-06-17
+C104,Aditya Bansal,Male,21,Mumbai,Maharastra,West,Home Office,2023-06-30
+C105,Rahul Mehta,Male,46,Kolkata,West Bengal,East,Consumer,2025-01-07
+C106,Kavya Arora,Female,19,Jaipur,Rajasthan,North,Consumer,2023-06-19
+C107,Sneha Agarwal,Female,47,Kolkata,West Bengal,East,Consumer,2025-03-07
+C108,Aarav Bansal,Male,34,Mumbai,Maharastra,West,Home Office,2024-11-01
+C109,Neha Bansal,Female,21,Delhi,Delhi,North,Consumer,2023-04-11
+C110,Rohan Gupta,Male,65,Lucknow,Uttar Pradesh,North,Home Office,2023-04-21
+C111,Akash Saxena,Male,48,Kolkata,West Bengal,East,Home Office,2025-02-08
+C112,Aman Yadav,Male,31,Kolkata,West Bengal,East,Corporate,2024-04-30
+C113,Mohit Arora,Male,68,Bengaluru,Karnataka,South,Corporate,2025-03-02
+C114,Nisha Kapoor,Female,48,Lucknow,Uttar Pradesh,North,Home Office,2024-04-08
+C115,Ananya Singh,Female,42,Bengaluru,Karnataka,South,Home Office,2023-03-26
+C116,Rahul Singh,Male,63,Jaipur,Rajasthan,North,Home Office,2024-03-26
+C117,Rahul Mehta,Male,66,Lucknow,Uttar Pradesh,North,Consumer,2023-08-14
+C118,Kavya Bansal,Female,67,Mumbai,Maharastra,West,Corporate,2025-06-11
+C119,Rohan Sharma,Male,48,Lucknow,Uttar Pradesh,North,Corporate,2023-04-17
+C120,Simran Agarwal,Female,34,Lucknow,Uttar Pradesh,North,Corporate,2023-02-06
+C121,Rohan Singh,Male,38,Bengaluru,Karnataka,South,Home Office,2023-05-28
+C122,Kavya Bansal,Female,36,Bengaluru,Karnataka,South,Consumer,2024-02-29
+C123,Akash Mishra,Male,63,Delhi,Delhi,North,Home Office,2025-05-26
+C124,Akash Patel,Male,50,Lucknow,Uttar Pradesh,North,Consumer,2025-04-22
+C125,Kavya Arora,Female,50,Jaipur,Rajasthan,North,Home Office,2023-03-18
+C126,Aarav Mehta,Male,53,Jaipur,Rajasthan,North,Consumer,2025-05-30
+C127,Rahul Saxena,Male,49,Lucknow,Uttar Pradesh,North,Corporate,2023-07-06
+C128,Mohit Jain,Male,52,Bengaluru,Karnataka,South,Corporate,2023-06-21
+C129,Simran Verma,Female,39,Mumbai,Maharastra,West,Home Office,2024-10-11
+C130,Aman Yadav,Male,20,Jaipur,Rajasthan,North,Home Office,2024-03-24
+C131,Aarav Bansal,Male,45,Bengaluru,Karnataka,South,Consumer,2023-07-16
+C132,Nisha Malhotra,Female,44,Lucknow,Uttar Pradesh,North,Home Office,2024-02-13
+C133,Priya Saini,Female,18,Bengaluru,Karnataka,South,Corporate,2024-07-20
+C134,Priya Jain,Female,38,Delhi,Delhi,North,Corporate,2024-09-14
+C135,Akash Kumar,Male,45,Kolkata,Kolkata,East,Consumer,2025-06-18
+C136,Arjun Mishra,Male,37,Kolkata,West Bengal,East,Corporate,2025-01-26
+C137,Rohan Singh,Male,57,Jaipur,Rajasthan,North,Home Office,2024-07-04
+C138,Ananya Jain,Female,20,Bengaluru,Karnataka,South,Home Office,2023-11-20
+C139,Pooja Jain,Female,23,Mumbai,Maharastra,West,Corporate,2023-03-09
+C140,Simran Saini,Female,43,Kolkata,West Bengal,East,Home Office,2024-02-16
+C141,Aditya Khanna,Male,36,Jaipur,Rajasthan,North,Corporate,2024-01-07
+C142,Sneha Bansal,Female,35,Lucknow,Uttar Pradesh,North,Corporate,2025-03-12
+C143,Muskan Mishra,Female,50,Kolkata,West Bengal,East,Corporate,2025-01-21
+C144,Ritika Kumar,Female,49,Delhi,Delhi,North,Home Office,2024-11-13
+C145,Rohan Jain,Male,58,Mumbai,Maharastra,West,Home Office,2023-07-18
+C146,Ananya Kumar,Female,39,Jaipur,Rajasthan,North,Home Office,2025-03-14
+C147,Neha Bansal,Female,52,Delhi,Delhi,North,Home Office,2023-10-03
+C148,Aarav Arora,Male,56,Jaipur,Rajasthan,North,Consumer,2023-12-24
+C149,Akash Arora,Male,47,Bengaluru,Karnataka,South,Consumer,2023-10-05
+C150,Vivaan Kumar,Male,68,Lucknow,Uttar Pradesh,North,Home Office,2025-05-07
+C151,Simran Malhotra,Female,20,Kolkata,West Bengal,East,Consumer,2023-09-22
+C152,Rahul Verma,Male,46,Kolkata,West Bengal,East,Corporate,2024-11-21
+C153,Ritika Yadav,Female,35,Delhi,Delhi,North,Consumer,2024-06-17
+C154,Aman Yadav,Male,58,Lucknow,Uttar Pradesh,North,Consumer,2025-02-16
+C155,Priya Singh,Female,57,Kolkata,West Bengal,East,Corporate,2023-07-06
+C156,Vivaan Malhotra,Male,68,Lucknow,Uttar Pradesh,North,Consumer,2024-11-13
+C157,Aarav Jain,Male,42,Kolkata,West Bengal,East,Corporate,2023-10-07
+C158,Muskan Mishra,Female,49,Lucknow,Uttar Pradesh,North,Consumer,2023-03-09
+C159,Ritika Agarwal,Female,45,Kolkata,West Bengal,East,Corporate,2023-01-30
+C160,Mohit Jain,Male,65,Mumbai,Maharastra,West,Corporate,2023-07-27
+C161,Karan Verma,Male,21,Jaipur,Rajasthan,North,Home Office,2024-08-12
+C162,Karan Patel,Male,20,Bengaluru,Karnataka,South,Consumer,2024-02-09
+C163,Arjun Singh,Male,46,Delhi,Delhi,North,Corporate,2023-06-17
+C164,Kavya Choudhary,Female,43,Lucknow,Uttar Pradesh,North,Consumer,2023-04-28
+C165,Simran Mishra,Female,38,Bengaluru,Karnataka,South,Corporate,2023-10-14
+C166,Arjun Jain,Male,51,Delhi,Delhi,North,Consumer,2024-07-04
+C167,Nisha Joshi,Female,40,Lucknow,Uttar Pradesh,North,Consumer,2023-12-16
+C168,Mohit Bansal,Male,38,Bengaluru,Karnataka,South,Home Office,2023-08-28
+C169,Ananya Arora,Female,38,Bengaluru,Karnataka,South,Home Office,2023-03-04
+C170,Ritika Jain,Female,58,Mumbai,Maharastra,West,Consumer,2023-02-19
+C171,Ritika Saxena,Female,57,Bengaluru,Karnataka,South,Home Office,2025-02-03
+C172,Simran Malhotra,Female,22,Kolkata,West Bengal,East,Home Office,2024-06-23
+C173,Ananya Arora,Female,67,Jaipur,Rajasthan,North,Corporate,2023-04-14
+C174,Simran Gupta,Female,34,Mumbai,Maharastra,West,Corporate,2024-01-12
+C175,Muskan Yadav,Female,65,Mumbai,Maharastra,West,Corporate,2023-07-09
+C176,Neha Gupta,Female,52,Lucknow,Uttar Pradesh,North,Corporate,2025-04-11
+C177,Rahul Malhotra,Male,40,Jaipur,Rajasthan,North,Home Office,2024-05-06
+C178,Vivaan Saxena,Male,33,Kolkata,West Bengal,East,Consumer,2023-02-18
+C179,Aarav Arora,Male,66,West Bengal,West Bengal,East,Corporate,2023-07-10
+C180,Akash Gupta,Male,39,Bengaluru,Karnataka,South,Corporate,2025-05-23
+C181,Aarav Joshi,Male,32,Delhi,Delhi,North,Corporate,2023-08-23
+C182,Rahul Khanna,Male,51,Lucknow,Uttar Pradesh,North,Home Office,2025-06-13
+C183,Akash Arora,Male,38,Bengaluru,Karnataka,South,Home Office,2024-04-13
+C184,Akash Arora,Male,70,Kolkata,West Bengal,East,Corporate,2024-07-13
+C185,Simran Yadav,Female,61,Jaipur,Rajasthan,North,Home Office,2025-03-28
+C186,Nisha Bansal,Female,52,Bengaluru,Karnataka,South,Home Office,2024-02-22
+C187,Sneha Mishra,Female,27,Mumbai,Maharastra,West,Home Office,2025-03-24
+C188,Kavya Singh,Female,26,Bengaluru,Karnataka,South,Corporate,2024-01-22
+C189,Simran Saini,Female,65,Kolkata,West Bengal,East,Consumer,2025-04-19
+C190,Aman Mehta,Male,36,Lucknow,Uttar Pradesh,North,Consumer,2024-12-28
+C191,Sneha Sharma,Female,34,Mumbai,Maharastra,West,Home Office,2024-01-23
+C192,Priya Agarwal,Female,19,Lucknow,Uttar Pradesh,North,Home Office,2024-09-27
+C193,Rohan Jain,Male,52,Lucknow,Uttar Pradesh,North,Consumer,2024-06-25
+C194,Rohan Saxena,Male,51,Kolkata,West Bengal,East,Home Office,2024-10-21
+C195,Arjun Mehta,Female,35,Bengaluru,Karnataka,South,Consumer,2023-01-13
+C196,Mohit Khanna,Male,31,Kolkata,West Bengal,East,Home Office,2024-11-28
+C197,Aarav Gupta,Male,40,Jaipur,Rajasthan,North,Corporate,2023-04-04
+C198,Simran Yadav,Female,55,Delhi,Delhi,North,Home Office,2025-03-12
+C199,Mohit Yadav,Male,53,Kolkata,West Bengal,East,Home Office,2024-05-29
+C200,Kavya Agarwal,Female,23,Jaipur,Rajasthan,North,Home Office,2024-10-17
